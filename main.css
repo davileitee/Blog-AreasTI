@@ -1,0 +1,206 @@
+body{
+    background-image:url(fundo.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 3000px;
+}
+.fundo {
+    margin-left: 40px;
+    margin-top: 70px;
+    width: 95%;
+    height: 1500px;
+    border: solid royalblue 2px;
+    background-color: black;
+}
+.cabecalho {
+    width: 95%;
+    height: 66px;
+    border: solid royalblue 1px;
+    position: absolute;
+    margin-left: 35px;
+    margin-top: -70px;
+    color:powderblue ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: fontecripto;
+    font-size: 25px;
+}
+@font-face {
+    font-family: fontecripto;
+    src: url(fontecripto.otf);
+}
+.imagem {
+    border: solid royalblue 1px;
+    margin: 40px;
+    width: 20%;
+    height: 20%;
+}
+.quadrado {
+    position: relative;
+    width:20% ;
+    height: 25%;
+    border: solid 1px royalblue;
+    margin: 40px;
+    margin-top: -20%;
+    top: 5px;
+}
+.seguran {
+    position: absolute;
+    margin-top: 95%;
+    margin-left: 16%;
+    font-family: fontecripto;
+    font-size: 12px;
+    color: white;
+}
+.quadrado-1{
+    position: relative;
+    width:20% ;
+    height: 25%;
+    border: solid 1px royalblue;
+    margin-left: 40%;
+    margin-top: -23.5%;
+    top: 5px;
+}
+.imagem-1{
+    border: solid royalblue 1px;
+    margin: 0px;
+    width: 100%;
+    height: 78.5%;
+    margin-left:-0% ;
+    }
+.analisebi {
+    position: relative;
+    top: 12%;
+    margin-left: -59%;
+    font-family: fontecripto;
+    font-size: 12px;
+    color: white;
+}
+.quadrado-2 {
+    position: relative;
+    width:20% ;
+    height: 25%;
+    border: solid 1px royalblue;
+    margin-left: 77%;
+    margin-top: -21.5%;
+    top: 5px;
+}
+.imagem-2 {
+    border: solid royalblue 1px;
+    margin: 0px;
+    width: 100%;
+    height: 78.5%;
+    margin-left:-0% ;
+}
+.analise-de-dados {
+    position: relative;
+    top: 12%;
+    margin-left: -68%;
+    font-family: fontecripto;
+    font-size: 12px;
+    color: white;
+}
+.quadrado-3 {
+    position: relative;
+    width:20% ;
+    height: 25%;
+    border: solid 1px royalblue;
+    margin-left: 77%;
+    margin-top: 5%;
+    top: 5px;
+}
+.imagem-3 {
+    border: solid royalblue 1px;
+    margin: 0px;
+    width: 100%;
+    height: 78.5%;
+    margin-left:-0% ;
+}
+.gestao {
+    position: relative;
+    top: 12%;
+    margin-left: -78%;
+    font-family: fontecripto;
+    font-size: 12px;
+    color: white;
+}
+.quadrado-4 {
+    position: relative;
+    width:20% ;
+    height: 25%;
+    border: solid 1px royalblue;
+    margin-left: 40%;
+    margin-top: -21.5%;
+    top: 5px;
+
+}
+.imagem-4 {
+    border: solid royalblue 1px;
+    margin: 40px;
+    width: 100%;
+    height: 80%;
+    margin-left: 0%;
+    margin-top: 0%;
+}
+.ux {
+    position: relative;
+    top: 1%;
+    margin-left: -78%;
+    font-family: fontecripto;
+    font-size: 12px;
+    color: white;
+}
+.quadrado-5 {
+    position: relative;
+    width:20% ;
+    height: 25%;
+    border: solid 1px royalblue;
+    margin-left: 2.5%;
+    margin-top: -21.5%;
+    top: 5px;
+}
+.imagem-5 {
+    border: solid royalblue 1px;
+    margin: 40px;
+    width: 100%;
+    height: 80%;
+    margin-left: 0%;
+    margin-top: 0%
+}
+.prog {
+    position: relative;
+    top: 1%;
+    margin-left: -78%;
+    font-family: fontecripto;
+    font-size: 12px;
+    color: white;
+}
+.quadrado-6 { position: relative;
+    width:20% ;
+    height: 25%;
+    border: solid 1px royalblue;
+    margin-left: 40%;
+    margin-top: 5%;
+    top: 5px;
+}
+.imagem-6 {
+    border: solid royalblue 1px;
+    margin: 40px;
+    width: 100%;
+    height: 80%;
+    margin-left: 0%;
+    margin-top: 0%;
+}
+.soft {
+    position: relative;
+    top: 1%;
+    margin-left: -87%;
+    font-family: fontecripto;
+    font-size: 12px;
+    color: white;
+}
+.paragrafo {
+    color: white;
+    font-family: fontecripto;
+    text-align: center;
+}

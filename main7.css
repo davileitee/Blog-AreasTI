@@ -1,0 +1,106 @@
+body {
+    background-image: url(fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: 3000px;
+}
+.cabessalho {
+    width: 95%;
+    height: 66px;
+    border: solid darkgray 1px;
+    position: absolute;
+    margin-left: 35px;
+    margin-top: -70px;
+    color:powderblue ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: home;
+    font-size: 25px;
+    background-color: midnightblue;
+    
+}
+.fundo {
+    width: 95%;
+    height: 1000px;
+    border: solid mediumblue 2px;
+    margin-left: 40px;
+    margin-top: 60px;
+    background-color: black;
+}
+
+#linkhome {
+    position: absolute;
+    top:2%;
+    left: 46%;
+ 
+}
+
+#links {
+    position: absolute;
+    top:2%;
+    left: 4%;
+   
+}
+
+#links1 {
+    position: absolute;
+    top:2%;
+    left: 14%;
+   
+}
+
+#links2 {
+    position: absolute;
+    top:2%;
+    left: 30% ;
+   
+}
+
+#links3 {
+    position: absolute;
+    top:2%;
+    right: 3%;
+ 
+}
+
+#links4 {
+    position: absolute;
+    top:2%;
+    right: 30% ;
+    
+}
+
+#links5 {
+    position: absolute;
+    top:2%;
+    right: 13%;
+    
+}
+
+.estilo {
+    color: white;
+    font-family: fontecripto;
+}
+@font-face {
+    font-family: fontecripto;
+    src: url(fontecripto.otf);
+}
+.imagem1 {
+    margin-top: 3%;
+    margin-left: 3%;
+    border: solid mediumblue;
+    width: 35%;
+}
+.estilo-titulo {
+    color: white;
+    font-family: fontecripto;
+    text-align: center;
+}
+#paragrafo1 {
+    color: white;
+    font-family: fontecripto;
+    text-align: center;
+    position: absolute;
+    top:30%;
+    margin-left: 36%;
+}
